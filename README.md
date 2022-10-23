@@ -1,4 +1,4 @@
-# Event-Manger-PITON-TECHNOLOGY-Test-Project
+# Event-Manager-PITON-TECHNOLOGY-Test-Project
 
 This is test project send me by piton technology.
 
